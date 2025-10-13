@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>My First Heading</h1>
+<p>My first paragraph.</p>
+
+</body>
+<h1 style="background-color:powderblue;">This is a heading</h1>
+<h1 style="color:rgb(255, 0, 242);">This is a red paragraph.</p>
+<h2 style="color:red;">This is a red paragraph.</p>
+<h1 style="font-family:verdana;">This is a heading</h1>
+<h3 style="font-size:60px;">Heading 1</h1>
+<p style="text-align:center;">Centered paragraph.</p>
+
+<p style="background-color:rgb(35, 180, 137);">This is a paragraph.</p>
+<p style="font-family:courier;">This is a paragraph.</p>
+<p style="color:rgb(147, 180, 85);">This is a red paragraph.</p>
+<p title="I'm a khayla">This is a paragraph.</p>
+<p>This is another paragraph.</p>
+<p>This is a <br> paragraph with a line break.</p>
+<img src="img_girl.jpg" alt="Girl with a jacket">S
+<img src="w3schools.jpg" alt="W3" width="200" height="200">
+
+<p>
+This paragraph
+contains a lot of lines
+in the source code,
+but the browser
+ignores it.
+</p>
+
+<p>
+This paragraph
+contains         a lot of spaces
+in the source         code,
+but the        browser
+ignores it.
+
+<h1>This is heading 1</h1>
+<p>This is some text.</p>
+<hr>
+<h2>This is heading 2</h2>
+<p>This is some other text.</p>
+<hr>
+
+<p>
+  My Bonnie lies over the ocean.
+
+  My Bonnie lies over the sea.
+
+  My Bonnie lies over the ocean.
+
+  Oh, bring back my Bonnie to me.
+
+  <pre>
+  My Bonnie lies over the ocean.
+
+  My Bonnie lies over the sea.
+
+  My Bonnie lies over the ocean.
+
+  Oh, bring back my Bonnie to me.
+</pre>
+</p>
+</p>
+</body>
+</html>
